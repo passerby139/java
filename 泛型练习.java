@@ -1,0 +1,21 @@
+package √∂æŸ∑∂–Õ;
+
+public class ∑∫–Õ¡∑œ∞<T> {
+	T num;
+	
+	public T getNum() {
+		return num;
+	}
+
+	public void setNum(T num) {
+		this.num = num;
+	}
+
+	public static void main(String[] args) {
+		∑∫–Õ¡∑œ∞<Boolean> use = new ∑∫–Õ¡∑œ∞<Boolean>();
+		
+		use.setNum(true);
+		boolean b= use.getNum();
+		System.out.println(b);
+	}
+}
